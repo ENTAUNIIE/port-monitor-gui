@@ -1,0 +1,5 @@
+# Ignore la config locale des appareils
+devices.json
+
+# Ignore les fichiers Packet Tracer
+*.pkt
